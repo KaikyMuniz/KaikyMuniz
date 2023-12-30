@@ -9,7 +9,7 @@
 <br>
 🎵📖🏃‍♂️🗣👨‍💻
 
-⚡ Estou constantemente me aprimorando para evoluir minhas habilidades técnicas e me tornar um profissional versátil no campo da tecnologia. Com uma atitude positiva e uma mentalidade de crescimento, estou pronta para enfrentar novos desafios e trilhar um caminho de sucesso na programação como Desenvolvedor Web.
+⚡ Estou constantemente me aprimorando para evoluir minhas habilidades técnicas e me tornar um profissional versátil no campo da tecnologia. Com uma atitude positiva e uma mentalidade de crescimento, estou pronto para enfrentar novos desafios e trilhar um caminho de sucesso na programação como Desenvolvedor Web.
 
 ## 🚀 Minhas Skills
 
