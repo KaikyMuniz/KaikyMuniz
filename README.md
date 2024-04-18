@@ -1,15 +1,16 @@
 # 👋 Olá, Seja Bem vindo(a) ao meu </php Perfil; ?>
 
-👨‍💻 Desenvolvedor Web;
+👨‍💻 Desenvolvedor Backend;
 <br>
-👨‍🎓 Técnico em Desenvolvimento de Sistemas.
+💻 Técnico em Desenvolvimento de Sistemas.
 <br>
+👨‍🎓 Cursando Engenharia de Software | 01/08 Semestre
 
 🎮 Hobbies
 <br>
 🎵📖🏃‍♂️🗣👨‍💻
 
-⚡ Estou constantemente me aprimorando para evoluir minhas habilidades técnicas e me tornar um profissional versátil no campo da tecnologia. Com uma atitude positiva e uma mentalidade de crescimento, estou pronto para enfrentar novos desafios e trilhar um caminho de sucesso na programação como Desenvolvedor Web.
+⚡ Estou constantemente me aprimorando para evoluir minhas habilidades técnicas e me tornar um profissional versátil no campo da tecnologia. Com uma atitude positiva e uma mentalidade de crescimento, estou pronto para enfrentar novos desafios e trilhar um caminho de sucesso na programação como Desenvolvedor Backend.
 
 ## 🚀 Minhas Skills
 
