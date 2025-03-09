@@ -4,7 +4,7 @@
 <br>
 💻 Técnico em Desenvolvimento de Sistemas.
 <br>
-👨‍🎓 Cursando Engenharia de Software | 02/08 Semestre
+👨‍🎓 Cursando Engenharia de Software | 03/08 Semestre
 
 🎮 Hobbies
 <br>
